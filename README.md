@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 my name is *Ervan Achirou*. 
+I am a PhD Student at the Paris Saclay Neuroscience Institue 🧑‍🔬 currently working on the processes of somato-sensory integration
+
+I have a huge interest in cortico-cortical communication in the brain 🧠 and Brain-computer-interfaces. 
+
+I am using python and arduino as part of my work.
+
+- 🌱 I’m currently learning C, Arduino, Python 
+- 👯 I’m looking to collaborate on projects related to BCI or Data processing
 
 <!--
 **Eachirou/Eachirou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
